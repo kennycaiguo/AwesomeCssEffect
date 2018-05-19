@@ -1,5 +1,5 @@
 # Awesome CSS effects
-> css 特殊效果合集
+> css 特殊效果合集 摘自: https://scrimba.com/playlist/pEgDAM
 
 ### 1. :after, :before 伪类
 ### 2. transition, animation, keyframes 动画
